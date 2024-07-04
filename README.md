@@ -1,4 +1,4 @@
-## Hello
+## Hello ☺
 
 - Senior Data Associate at Cibus 🌱 🧫 🧬
 - Currently enrolled in the Applied Data Science M.S. program @ USD 
